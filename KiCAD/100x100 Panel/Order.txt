@@ -1,0 +1,10 @@
+
+74HC04 Hex Inverter - $7.59 /20pc (Amazon)
+SN74189 16x4 SRAM - $9.77 /10pc (ebay)
+
+74LS157 Multiplexer - $0.564 /pc (Mouser) or $8.99 /15pc (Amazon)
+74LS14 Schmitt Trigger - $0.504 /pc (Mouser)
+74F283 Full Adder - $0.489 /pc (Mouser)
+74HC175N Quad Register - $0.398 /pc (Mouser) or $7.00 /20pc (Amazon)
+
+2.54 mm pin headers - $5.49 /800 pins (Amazon)
